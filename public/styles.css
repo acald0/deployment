@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(227, 227, 227);
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: white;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
